@@ -7,8 +7,8 @@ from i2c_lcd import I2cLcd
 # =========================
 # WIFI
 # =========================
-ssid = 'AlaNet'
-password = 'txhf5nvatpVtgpPt'
+ssid = 'YOUR_WIFI_NAME'
+password = 'YOUR_WIFI_PASSWORD'
 
 # =========================
 # HARDWARE
